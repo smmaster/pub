@@ -1,0 +1,16 @@
+{
+  "uc": {
+    "tenants": {
+      "bkk": {
+        "GLN": "GLNXXX123GHFG7657F456"
+      }
+    }
+  },
+  "azure": {
+    "tennats": {
+      "73fbcf56-ad0e-441c-b431-2a36dc8918d7": {
+        "uctname": "bkk"
+      }
+    }
+  }
+}
