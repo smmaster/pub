@@ -7,7 +7,7 @@
     }
   },
   "azure": {
-    "tennats": {
+    "tenants": {
       "73fbcf56-ad0e-441c-b431-2a36dc8918d7": {
         "uctname": "bkk"
       }
