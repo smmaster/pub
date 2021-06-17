@@ -4,7 +4,7 @@
     "clerck"
   ],
   "/httpbin/get": [
-    "clerck"
+    "sclerck"
   ],
   "/httpbin/post": [
     "admin"
