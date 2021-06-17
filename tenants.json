@@ -3,13 +3,20 @@
     "tenants": {
       "bkk": {
         "GLN": "GLNXXX123GHFG7657F456GITHUB"
+      },
+      "socrates": {
+        "GLN": "GLNSOC23GHFG7657F456GITHUB"
       }
+       
     }
   },
   "azure": {
     "tenants": {
       "73fbcf56-ad0e-441c-b431-2a36dc8918d7": {
         "uctname": "bkk"
+      },
+      "d6d8ec2c-641b-43db-b87c-4822adcabaa5": {
+        "uctname": "socrates"
       }
     }
   }
