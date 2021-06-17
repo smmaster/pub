@@ -1,0 +1,12 @@
+{
+  "/httpbin/headers": [
+    "admin",
+    "clerck"
+  ],
+  "/httpbin/get": [
+    "clerck"
+  ],
+  "/httpbin/post": [
+    "admin"
+  ]
+}
