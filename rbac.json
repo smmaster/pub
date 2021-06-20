@@ -1,7 +1,7 @@
 {
-  "/httpbin/headers": [
-    "r1",
-    "r2"
+  "/httpbin/h*": [
+    "clerk",
+    "admin"
   ],
   "/httpbin/get": [
     "clerck"
