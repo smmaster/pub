@@ -1,7 +1,7 @@
 {
   "/httpbin/h*": [
-    "Sadmin",
-    "Sclerck"
+    "r1",
+    "r2"
   ],
   "/httpbin/get": [
     "clerck"
