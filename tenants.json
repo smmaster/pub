@@ -7,9 +7,14 @@
       "socrates": {
         "GLN": "GLNSOC23GHFG7657F456GITHUB"
       },
+      
       "hks": {
         "GLN": "HKSGLN0001"
+      },
+      "hkraft": {
+        "GLN": "hkraftGLN0001"
       }
+      
     }
   },
   "azure": {
@@ -20,7 +25,9 @@
       "1faeb670-82ef-4eee-95ee-3d4f1f4b3189": {
         "uctname": "hks"
       },
-      
+      "fe5c312c-996b-4967-af5e-5d9f39c539af": {
+        "uctname": "hkraft"
+      },
       "d6d8ec2c-641b-43db-b87c-4822adcabaa5": {
         "uctname": "socrates"
       }
