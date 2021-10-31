@@ -1,20 +1,5 @@
 {
-  "uc": {
-    "tenants": {
-      "bkk": {
-        "GLN": "GLNXXX123GHFG7657F456GITHUB"
-      },
-      "socrates": {
-        "GLN": "GLNSOC23GHFG7657F456GITHUB"
-      },
-      "hks": {
-        "GLN": "HKSGLN0001"
-      },
-      "hkraft": {
-        "GLN": "hkraftGLN0001"
-      }
-    }
-  },
+  
   "azure": {
     "tenants": {
       "73fbcf56-ad0e-441c-b431-2a36dc8918d7": {
@@ -37,7 +22,8 @@
       "02b80665-0d99-4740-a13b-80922804678b": "bkk",
       "70bae4e0-590c-45ae-a090-43a3460bf76b": "hks",
       "f298d7b0-4af5-43a0-9aac-31ab14a7a4bb": "hks",
-      "6d8aaf7d-1ab6-4fe9-8964-8eaf2eaa4a95": "hks"
+      "6d8aaf7d-1ab6-4fe9-8964-8eaf2eaa4a95": "hks",
+      "ade8d952-8d4a-4c1e-98a6-bf720156070d": "hks"
     }
   }
 }
