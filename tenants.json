@@ -14,31 +14,5 @@
         "GLN": "hkraftGLN0001"
       }
     }
-  },
-  "azure": {
-    "tenants": {
-      "73fbcf56-ad0e-441c-b431-2a36dc8918d7": {
-        "uctname": "bkk"
-      },
-      "1faeb670-82ef-4eee-95ee-3d4f1f4b3189": {
-        "uctname": "hks"
-      },
-      "fe5c312c-996b-4967-af5e-5d9f39c539af": {
-        "uctname": "hkraft"
-      },
-      "d6d8ec2c-641b-43db-b87c-4822adcabaa5": {
-        "uctname": "socrates"
-      }
-    },
-    "applications": {
-      "1d9d1288-0923-441e-ab13-d9ab13c6132c": "socrates",
-      "dcf0b8e6-a4fb-4dbb-ab2a-bf931b41ca6b": "socrates",
-      "ce9a0b92-f8d1-4839-bc87-215d5152892d": "bkk",
-      "02b80665-0d99-4740-a13b-80922804678b": "bkk",
-      "70bae4e0-590c-45ae-a090-43a3460bf76b": "hks",
-      "f298d7b0-4af5-43a0-9aac-31ab14a7a4bb": "hks",
-      "6d8aaf7d-1ab6-4fe9-8964-8eaf2eaa4a95": "hks",
-      "ade8d952-8d4a-4c1e-98a6-bf720156070d": "hks"
-    }
   }
 }
