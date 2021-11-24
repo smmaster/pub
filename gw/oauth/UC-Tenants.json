@@ -1,0 +1,18 @@
+{
+  "uc": {
+    "tenants": {
+      "bkk": {
+        "GLN": "GLNXXX123GHFG7657F456GITHUB"
+      },
+      "socrates": {
+        "GLN": "GLNSOC23GHFG7657F456GITHUB"
+      },
+      "hks": {
+        "GLN": "HKSGLN0001XXXX"
+      },
+      "hkraft": {
+        "GLN": "hkraftGLN0001"
+      }
+    }
+  }
+}
